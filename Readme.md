@@ -11,7 +11,7 @@ This script forcefully removes Firefox from a Kubuntu-based system. It ensures t
 To remove Firefox in one step, run the following command in your terminal:
 
 ```bash
-wget -qO- https://raw.githubusercontent.com/1999azzar/firefox-remover-script/main/firefox_remover.sh | bash
+wget -qO- https://raw.githubusercontent.com/1999AZZAR/firefox-remover-script/master/firefox_remover.sh | bash
 ```
 
 ### Step-by-Step Explanation
